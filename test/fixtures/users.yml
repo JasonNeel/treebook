@@ -3,3 +3,9 @@ jason:
   last_name: 'Neel'
   email: 'jasonneel@yahoo.com'
   profile_name: 'jasonneel'
+
+jim:
+  first_name: 'Jim'
+  last_name: 'Hoskins'
+  email: 'jim@teamtreehouse.com'
+  profile_name: 'jimhoskins'
